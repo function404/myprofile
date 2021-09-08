@@ -1,7 +1,8 @@
 # My profile
 
 # Games
-
+ * CS Go
+ * Lol
 # myprofile
 
 # Livros
